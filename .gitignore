@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+build/
+dist/
+*.egg-info/
+.env
+data/raw/
+data/source/*.csv
+*.log
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+.coverage
+htmlcov/
